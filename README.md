@@ -1,1 +1,1 @@
-https://banerjeesrijita.github.io
+https://banerjeesrijita.github.io/SrijitaB.github.io/
