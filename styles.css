@@ -40,16 +40,17 @@ a:hover {
 }
 
 .page {
-  width: min(100% - 48px, 1220px);
+  width: min(100% - 56px, 1460px);
   margin: 0 auto;
   padding: clamp(42px, 5.5vw, 78px) 0 80px;
 }
 
 .hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(230px, 320px);
-  gap: clamp(34px, 7vw, 92px);
+  grid-template-columns: minmax(0, 900px) minmax(230px, 320px);
+  gap: clamp(48px, 9vw, 140px);
   align-items: start;
+  justify-content: start;
 }
 
 .hero-text {
@@ -134,6 +135,8 @@ p {
 
 .section {
   max-width: 980px;
+  margin-right: auto;
+  margin-left: auto;
   margin-top: 70px;
 }
 
